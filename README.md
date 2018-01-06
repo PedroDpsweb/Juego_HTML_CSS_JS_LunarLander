@@ -36,7 +36,7 @@ Aterrizaje correcto e incorrecto:
  - En versión móvil hacemos clic en cualquier lado de la pantalla.(Mencionar que en esta función me ha ayudado el compañero Mario, ya que yo no era capaz de encontrar como se hacía.)
   
 Validación:
-    - Como siempre, el HTML y CSS están validados. El JS está validado pero al no en contrar página de W3C lo validé aquí: http://esprima.org/demo/validate.html
+  - Como siempre, el HTML y CSS están validados. El JS está validado pero al no encontrar página de W3C lo validé aquí: http://esprima.org/demo/validate.html
     
 Imágenes:
   - Comprimidas varias veces y fondos redimensionados para que no ocupen tanto como la última vez.
