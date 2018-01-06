@@ -18,9 +18,9 @@ Marcadores:
   - Ajustados para que la velocidad sea la correcta, la altitud también y Fuel cambiado para empezar con 60 l.
   
 Selector de Dificultad:
-  - Al empezar El juego requiere la elección de dificultad, la cual se selecciona con un input y doble click sobre el boton 'seleccionar'.
+  - Al empezar el juego requiere la elección de dificultad, la cual se selecciona con un input y doble click sobre el boton 'seleccionar'.
   - Destacar que he modificado la forma de hacerlo difícil: en lugar de tener menos gasolina, la nave irá mas deprisa teniendo que          aterrizar a la misma velocidad de 5 m/s o menos en todas las dificultades.
-  He decidido hacerlo así ya que me parece una forma mas apropiada y divertida de poner dificil el juego.
+  He decidido hacerlo así ya que me parece una forma mas apropiada y divertida de poner difícil el juego.
   
 Botón Menú:
   - Al clickar en menú el juego se detiene ofreciendonos cada posibilidad.
