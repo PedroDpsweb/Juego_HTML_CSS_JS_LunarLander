@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Lunar Lander</title>
+    <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Play' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet" type="text/css">
+    <link rel="icon" type="image/png" href="img/favicon.png" />
+
+    <link rel='stylesheet' media='screen and (min-width: 720px)' href='css/estilo.min.css'>
+    <link rel='stylesheet' media='screen and (max-width: 720px)' href='css/estilomovil.min.css'>
+    <script src="js/js.min.js"></script>
+
+</head>
+
+<body>
+    <div id="pantallainstruccion">
+        <p>
+            Ayuda al Lunar Lander a aterrizar en la Luna sin estrellarse.</p>
+        <p id="myp"></p>
+        <p>para encender los motores y así aminorar la velocidad de caida. Si consigues aterrizar a una velocidad de 5 m/s o
+            inferior conseguirás tu objetivo.
+            <br> ¡Cuidado, si se te acaba el Fuel la nave se apagará! Buena suerte.
+        </p>
+
+
+
+
+
+
+        <div id="return"><a href="index.min.html">VOLVER</a></div>
+    </div>
+</body>
+<script>
+    //Instrucciones según la resolución
+    if (window.innerWidth > 720) {
+        document.getElementById("myp").innerHTML = "Pulsa la barra espaciadora";
+    } else {
+        document.getElementById("myp").innerHTML = "Mantén pulsado en cualquier lado de la pantalla";
+    }
+</script>
+
+
+</html>
