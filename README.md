@@ -33,7 +33,7 @@ Aterrizaje correcto e incorrecto:
  - Si no conseguimos aterrizar aparece una animación de la nave explotando. Reiniciamos desde el menú.
  - Si se nos acaba el fuel, la nave se apaga, la animación de los motores también se quita.
  - En escritorio utilizamos la 'barra espaciadora'.
- - En versión móvil hacemos clic en cualquier lado de la pantalla.(Mencionar que en esta función me ha ayudado el compañero Mario, ya que yo no era capaz de encontrar como se hacía.)
+ - En versión móvil hacemos click en cualquier lado de la pantalla.(Mencionar que en esta función me ha ayudado el compañero Mario, ya que yo no era capaz de encontrar como se hacía.)
  
 Instrucciones:
   - Las instrucciones cambian según el dispositivo. Aquí he tenido que usar un script de JS en el HTML porque si lo ponía en el archivo donde está todo el código JS me daba error (Si escribia el código antes de la función del menú no me funcionaba ocultar dicho menú, y si escribía el código debajo no me funcionaba el cambio de instrucciones.)
