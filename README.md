@@ -34,6 +34,9 @@ Aterrizaje correcto e incorrecto:
  - Si se nos acaba el fuel, la nave se apaga, la animación de los motores también se quita.
  - En escritorio utilizamos la 'barra espaciadora'.
  - En versión móvil hacemos clic en cualquier lado de la pantalla.(Mencionar que en esta función me ha ayudado el compañero Mario, ya que yo no era capaz de encontrar como se hacía.)
+ 
+Instrucciones:
+  - Las instrucciones cambian según el dispositivo. Aquí he tenido que usar un script de JS en el HTML porque si lo ponía en el archivo donde está todo el código JS me daba error (Si escribia el código antes de la función del menú no me funcionaba ocultar dicho menú, y si escribía el código debajo no me funcionaba el cambio de instrucciones.)
   
 Validación:
   - Como siempre, el HTML y CSS están validados. El JS está validado pero al no encontrar página de W3C lo validé aquí: http://esprima.org/demo/validate.html
@@ -43,6 +46,7 @@ Imágenes:
 
 Versión Min:
   - Realizada una nueva Branch con la versión minificada.
+  ** El JS no he podido minificarlo ya que me daba error, tampoco he podido minificar instrucciones.html porque tiene una parte con script de JS y también me fallaba al minificar.
     
   
   
